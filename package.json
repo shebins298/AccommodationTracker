@@ -21,7 +21,7 @@
     "predeploy": "npm run build", // Runs build before deploying
     "deploy": "gh-pages -d build" // Deploys to gh-pages
   },
-  "homepage": "https://shebins298.github.io/AccommodationTracker", // Add this line to specify the URL
+  "homepage": "https://shebins298.github.io/AccommodationTracker" // Add this line to specify the URL
   "eslintConfig": {
     "extends": [
       "react-app",
