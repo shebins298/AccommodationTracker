@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AccommodationTracker/static/css/main.dfcb8c47.css",
+    "main.js": "/AccommodationTracker/static/js/main.6bd226b4.js",
+    "static/js/453.46ce1c01.chunk.js": "/AccommodationTracker/static/js/453.46ce1c01.chunk.js",
+    "index.html": "/AccommodationTracker/index.html",
+    "main.dfcb8c47.css.map": "/AccommodationTracker/static/css/main.dfcb8c47.css.map",
+    "main.6bd226b4.js.map": "/AccommodationTracker/static/js/main.6bd226b4.js.map",
+    "453.46ce1c01.chunk.js.map": "/AccommodationTracker/static/js/453.46ce1c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfcb8c47.css",
+    "static/js/main.6bd226b4.js"
+  ]
+}
